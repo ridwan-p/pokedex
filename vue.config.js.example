@@ -1,0 +1,3 @@
+module.exports = {
+  publicPath: "https://ridwan-p.github.io/pokedex/"
+}
